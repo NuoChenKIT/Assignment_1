@@ -1,0 +1,8 @@
+models/bmw-gpt2/model.safetensors
+
+
+
+
+
+
+
